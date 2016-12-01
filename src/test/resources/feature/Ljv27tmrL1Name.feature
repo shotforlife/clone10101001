@@ -1,3 +1,3 @@
 @ST_5319 @four @five @six
-Feature: r1e6k3oi6XName
+Feature: Shm8Nape8xName
 Check that story can be updated.
