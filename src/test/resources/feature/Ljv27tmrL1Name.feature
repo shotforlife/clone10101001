@@ -1,3 +1,3 @@
-@ST_5319 @one @two @three
-Feature: 6F4NMZhkoDName
-Check that story can be created.
+@ST_5319 @four @five @six
+Feature: md320UHvPJName
+Check that story can be updated.
