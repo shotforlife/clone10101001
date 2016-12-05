@@ -9,7 +9,7 @@ Given tes
 Then tes
 
 @SC_35197 @tag1 @tag2 @tag3
-Scenario: ZaUwWSQq9oName
+Scenario Outline: ZaUwWSQq9oName
 Check that scenario can be created.
 Given first
 When second
